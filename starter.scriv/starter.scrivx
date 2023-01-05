@@ -1,33 +1,145 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25239" Modified="2012-04-24 00:00:00 +0000">
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="63F5923D-9597-4F62-9998-CBF133D6B123" Version="2.0" Creator="SCRMAC-3.2.3-14869" Device="Edisons-MacBook-Pro" Author="" Modified="2023-01-05 16:45:32 -0300" ModID="E9DF981B-08C7-49FD-85B4-5E81F6298AFC">
     <Binder>
-        <BinderItem ID="0" Type="DraftFolder" Created="2012-04-24 00:00:00 +0000" Modified="2012-04-24 00:00:00 +0000">
+        <BinderItem UUID="D6589BE1-193F-47C5-86B7-3E0847135697" Type="DraftFolder" Created="2012-04-23 21:00:00 -0300" Modified="2012-04-23 21:00:00 -0300">
             <Title>Draft</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
         </BinderItem>
-        <BinderItem ID="1" Type="ResearchFolder" Created="2012-04-24 00:00:00 +0000" Modified="2012-04-24 00:00:00 +0000">
+        <BinderItem UUID="A0C83F55-B70B-4105-9225-EB44BD13D397" Type="ResearchFolder" Created="2012-04-23 21:00:00 -0300" Modified="2012-04-23 21:00:00 -0300">
             <Title>Research</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
         </BinderItem>
-        <BinderItem ID="2" Type="TrashFolder" Created="2012-04-24 00:00:00 +0000" Modified="2012-04-24 00:00:00 +0000">
+        <BinderItem UUID="57339969-6318-41B0-9D19-B53C16A2360B" Type="TrashFolder" Created="2012-04-23 21:00:00 -0300" Modified="2012-04-23 21:00:00 -0300">
             <Title>Trash</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
         </BinderItem>
+        <BinderItem UUID="979CFB60-41DD-4667-B988-2A30EDA327DB" Type="Folder" Created="2023-01-05 16:16:44 -0300" Modified="2023-01-05 16:16:53 -0300">
+            <Title>Novel text</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="BF64128F-92BD-4624-ADBF-9D70C374A122" Type="Text" Created="2023-01-05 16:31:32 -0300" Modified="2023-01-05 16:32:52 -0300">
+                    <Title>Capítulo 1: Introdução ao Processo de Empreendedorismo Sistemático</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>66,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="0970085A-463B-4551-8828-AADC1EB97941" Type="Text" Created="2023-01-05 16:32:09 -0300" Modified="2023-01-05 16:34:33 -0300">
+                            <Title>1. O objetivo da startup é encontrar três encaixes</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1560,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="AC9909F8-563D-4195-AC56-68FD4F58768D" Type="Text" Created="2023-01-05 16:34:56 -0300" Modified="2023-01-05 16:37:07 -0300">
+                            <Title>2. Desafio da busca: chegar até a Convergência.</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,47</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D0A7DB0E-977F-4BAA-91C6-B256F27E6610" Type="Text" Created="2023-01-05 16:36:12 -0300" Modified="2023-01-05 16:37:03 -0300">
+                            <Title>A convergência é a harmonização de cinco pré condições para a escalabilidade </Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,77</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="CF29790F-CB6E-4791-B201-D7F01CEC6AA0" Type="Text" Created="2023-01-05 16:36:19 -0300" Modified="2023-01-05 16:37:11 -0300">
+                            <Title>Definição de cada variável-fundamento</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,37</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="6A56CC34-3993-4140-BCF2-57D9B2D1B5B4" Type="Text" Created="2023-01-05 16:37:12 -0300" Modified="2023-01-05 16:37:34 -0300">
+                            <Title>3. Desafio da produtividade: encontrar o caminho mais rápido, econômico e robusto para a Convergênci</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>103,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="70F93D77-8C57-4C9E-A5C7-18EEC933502E" Type="Text" Created="2023-01-05 16:37:38 -0300" Modified="2023-01-05 16:38:00 -0300">
+                            <Title>4. Visualizando o processo de criação de startups</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,49</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="97BC822B-45C2-423B-8BD7-C854E3FEFF25" Type="Text" Created="2023-01-05 16:38:02 -0300" Modified="2023-01-05 16:38:28 -0300">
+                            <Title>5. Nossa dica: Divida a busca pela Convergência em cinco projetos</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,65</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="7D939ED2-39A9-4080-9352-8A283904F11E" Type="Text" Created="2023-01-05 16:38:26 -0300" Modified="2023-01-05 16:38:46 -0300">
+                            <Title>6. Como vamos escrever o livro (supondo que você esteja querendo saber)</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>641,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
     </Binder>
     <Collections>
-        <Collection Type="Binder" ID="CAFEBABE-0000-0000-0000-000000000000" Color="0.784753 0.815752 0.848702">
+        <Collection Type="Binder" ID="CAFEBABE-0000-0000-0000-000000000000" Color="0.112547 0.112547 0.112547">
             <Title>Binder</Title>
         </Collection>
-        <Collection Type="RecentSearch" ID="DEADBEEF-0000-0000-0000-000000000000" Color="0.922 0.91 0.98">
+        <Collection Type="RecentSearch" ID="DEADBEEF-0000-0000-0000-000000000000" Color="0.190666 0.172707 0.216531">
             <Title>Search Results</Title>
         </Collection>
     </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="3E57D092-E7EC-41FA-8F84-D91BA98A81F1">Heading</Type>
+            <Type ID="04FCD85B-B954-4C13-BA37-FAFACB657F9E">Sub-Heading</Type>
+            <Type ID="6965407D-8A0F-4B96-8ABA-CBDC062628FA">Section</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>3E57D092-E7EC-41FA-8F84-D91BA98A81F1</Type>
+            </Folders>
+            <Containers>
+                <Type>6965407D-8A0F-4B96-8ABA-CBDC062628FA</Type>
+            </Containers>
+            <Files>
+                <Type>6965407D-8A0F-4B96-8ABA-CBDC062628FA</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
     <LabelSettings>
         <Title>Label</Title>
         <DefaultLabelID>-1</DefaultLabelID>
@@ -50,9 +162,15 @@
         </StatusItems>
     </StatusSettings>
     <ProjectTargets Notify="No">
-        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2012-04-24 00:00:00 +0000" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2012-04-24 00:00:00 +0000"></PreviousSession>
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2012-04-23 21:00:00 -0300" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-01-06 00:00:00 -0300" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2023-01-05 16:45:14 -0300"/>
     </ProjectTargets>
-    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+    <RecentWritingHistory Date="2023-01-05 16:45:14 -0300">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="611.999979,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
